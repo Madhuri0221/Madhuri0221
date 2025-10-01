@@ -44,12 +44,16 @@ After 3.6 years in QA, I am now building my career in Data Analytics. My profess
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 - Version Control: Git, GitHub
+
+## 🎓 Certifications
+
+- [Data Analyst](https://github.com/Madhuri0221/Madhuri0221/blob/main/certificates/Data%20Analyst.pdf)
   
 ## 📫 How to reach me
   
 - [LinkedIn](https://www.linkedin.com/in/madhuri-sirigibattula-827a29328/) 
 - [Email](mailto:madhurisirigibattula@gmail.com)
   
-## ⚡ Fun fact:
+## ⚡ Fun fact
 - I enjoy exploring datasets the way others explore stories—every dataset feels like a mystery waiting to be solved.
   
